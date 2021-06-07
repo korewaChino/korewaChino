@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @korewaChino
-- 👀 I’m interested in Audio Engineering and backend development!
+- 👀 I’m interested in Automation, Scripting and Audio Engineering/DSP
 - 🌱 I’m currently learning Max/MSP and Haxe
 - 💞️ I’m looking to collaborate on Game Development projects
 - 📫 How to reach me: korewaChino#7251
