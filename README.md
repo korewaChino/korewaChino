@@ -6,7 +6,7 @@
 
 Hi I'm Cappy Ishihara and I maintain a couple of custom Fedora packages, I also contribute to some apps and stuff on a whim.
 
-I maintain the Fedora Jam+ Repository over at COPR, a software compilation offering additional apps that allow the use of non-free DSP plugins and more. I also am working on a Friday Night Funkin' Engine that allows for full binary reproducibility for mods, and the loading of assets by packages known as FWADs instead of directly recompiling the binary and assets.
+I maintain Ultramarine Linux, a Linux distribution based on Fedora that is focused on being as simple as possible to new users and power users alike.
 
 <!---
 korewaChino/korewaChino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
