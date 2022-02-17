@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @korewaChino
 - 👀 I’m interested in Automation, Scripting and Audio Engineering/DSP
-- 🌱 I’m currently learning Max/MSP and Haxe
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Software porting
 - 📫 How to reach me: korewaChino#7251
 
