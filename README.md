@@ -8,6 +8,8 @@ I am non-binary and I usually code in my free time. I'm a big IT nerd and I love
 
 I code in Python, C, and Rust; and my favorite programming language is Rust! It takes a while to build but the end product is blazing fast!
 
+I'm also the founder and the maintainer of Ultramarine Linux. My specialty is in DevOps engineering.
+
 ## My background
 
 I started using computers when I was 4 years old. The earliest memories of computers were me playing GTA: Vice City and C&C: Red Alert 2 on the neighbour's computer.
