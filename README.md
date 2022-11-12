@@ -1,4 +1,7 @@
-<a rel="me" href="https://mstdn.social/@korewaChino">Mastodon</a>
+<a rel="me" href="https://mstdn.social/@korewaChino">
+  <img src="https://img.shields.io/badge/Mastodon-7289da?logo=Mastodon&logoColor=white" />
+</a>
+
 
 # About me!
 
