@@ -1,3 +1,5 @@
+<a rel="me" href="https://mstdn.social/@korewaChino">Mastodon</a>
+
 # About me!
 
 Hi! My name is Cappy Ishihara. It's not really my real name but I like to be called Cappy, Because I think it sounds cute.
