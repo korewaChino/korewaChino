@@ -8,7 +8,7 @@
 - Ask me about something Thailand-related
 - Pronouns: They/them OR He/him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korewaChino)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=korewaChino&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 # About me!
 
