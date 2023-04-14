@@ -22,3 +22,59 @@ I code in Python, C, and Rust; and my favorite programming language is Rust! It 
 
 I'm also the founder and the maintainer of Ultramarine Linux. My specialty is in DevOps engineering.
 
+
+# Skills
+
+## Programming Languages
+- C/C++
+- JavaScript/TypeScript
+- Rust
+- Python
+- Shell Scripting (bash, fish)
+
+## IaC
+- Terraform
+- Ansible
+
+## Databases
+- PostgreSQL
+- SurrealDB
+- SQLite
+- Redis
+
+## VCS
+- GitHub
+- GitLab
+- Self-hosted Gitea
+
+## Containers
+- Docker
+- Podman
+- LXC
+- Kubernetes
+  - K3s
+  - Vanilla K8s (kubeadm)
+  - Rancher RKE2
+  - Rancher Server
+
+## Virtualization
+- KVM
+- Proxmox
+
+## Operating Systems
+- Linux
+  - Fedora
+  - Enterprise Linux (CentOS, AlmaLinux, Rocky, RHEL)
+  - Debian/Ubuntu
+  - Arch Linux
+
+# Accomplishments
+- CIO of Fyra Labs
+- Lead developer of Ultramarine Linux
+
+# Projects
+- [Ultramarine Linux](https://ultramarine-linux.org)
+- [Andaman](https://github.com/FyraLabs/anda)
+- [Kiri Desktop](https://github.com/tau-OS/kiri-desktop)
+- [sanim](https://github.com/korewaChino/sanim)
+- [DNF](https://github.com/rpm-software-management/dnf)
