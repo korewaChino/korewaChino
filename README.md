@@ -57,6 +57,11 @@ I'm also the founder and the maintainer of Ultramarine Linux. My specialty is in
   - Rancher RKE2
   - Rancher Server
 
+# Cloud
+- Linode
+- Hetzner Cloud
+- Google Cloud Platform
+
 ## Virtualization
 - KVM
 - Proxmox
