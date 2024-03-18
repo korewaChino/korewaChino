@@ -14,7 +14,7 @@
 
 Hi! My name is Cappy Ishihara. It's not really my real name but I like to be called Cappy, Because I think it sounds cute.
 
-I am from Thailand, and I'm currently a student at the Srinakharinwirot University Demonstration School!
+I am from Thailand, and I'm currently a NEET(?).
 
 I am non-binary and I usually code in my free time. I'm a big IT nerd and I love to learn new things.
 
