@@ -2,11 +2,11 @@
   <img src="https://img.shields.io/badge/Mastodon-7289da?logo=Mastodon&logoColor=white" />
 </a>
 
-- I'm currently working on Kiri Desktop and the Andaman packaging toolchain
-- I'm currently learning Vala and C++
-- I'm looking to collaborate on the Gyaku Wayland Compostitor and/or Smithay
+- I'm currently working on Ultramarine Linux, and the KIRI Desktop.
+- I'm currently learning Gleam and C++
+- I'm looking to collaborate on the KIRI desktop, Readymade, and other Ultramarine Linux/tauOS projects!
 - Ask me about something Thailand-related
-- Pronouns: They/them OR He/him
+- Pronouns: They/them OR She/her
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=korewaChino&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -46,6 +46,9 @@ I'm also the founder and the maintainer of Ultramarine Linux. My specialty is in
 - GitHub
 - GitLab
 - Self-hosted Gitea
+  - Gogs
+  - Forgejo
+  - Codeberg, notabug, etc etc.
 
 ## Containers
 - Docker
