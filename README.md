@@ -83,6 +83,6 @@ I'm also the founder and the maintainer of Ultramarine Linux. My specialty is in
 # Projects
 - [Ultramarine Linux](https://ultramarine-linux.org)
 - [Andaman](https://github.com/FyraLabs/anda)
-- [Kiri Desktop](https://github.com/tau-OS/kiri-desktop)
-- [sanim](https://github.com/korewaChino/sanim)
+- [Terra](https://terra.fyralabs.com)
+- [Boson](https://github.com/FyraLabs/boson)
 - [DNF](https://github.com/rpm-software-management/dnf)
