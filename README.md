@@ -18,67 +18,11 @@ I am from Thailand, and I'm currently a NEET(?).
 
 I am non-binary and I usually code in my free time. I'm a big IT nerd and I love to learn new things.
 
-I code in Python, C, and Rust; and my favorite programming language is Rust! It takes a while to build but the end product is blazing fast!
+I code in Python, C, and Rust; and my favorite programming language is Rust! It takes a while to build but the end product should be robust!
 
-I'm also the founder and the maintainer of Ultramarine Linux. My specialty is in DevOps engineering.
+I believe that all knowledge should and must be free, and all code should be able to be taken apart and studied
 
-
-# Skills
-
-## Programming Languages
-- C/C++
-- JavaScript/TypeScript
-- Rust
-- Python
-- Shell Scripting (bash, fish)
-
-## IaC
-- Terraform
-- Ansible
-
-## Databases
-- PostgreSQL
-- SurrealDB
-- SQLite
-- Redis
-
-## VCS
-- GitHub
-- GitLab
-- Self-hosted Gitea
-  - Gogs
-  - Forgejo
-  - Codeberg, notabug, etc etc.
-
-## Containers
-- Docker
-- Podman
-- LXC
-- Kubernetes
-  - K3s
-  - Vanilla K8s (kubeadm)
-  - Rancher RKE2
-  - Rancher Server
-
-# Cloud
-- Linode
-- Hetzner Cloud
-- Google Cloud Platform
-
-## Virtualization
-- KVM
-- Proxmox
-
-## Operating Systems
-- Linux
-  - Fedora
-  - Enterprise Linux (CentOS, AlmaLinux, Rocky, RHEL)
-  - Debian/Ubuntu
-  - Arch Linux
-
-# Accomplishments
-- CIO of Fyra Labs
-- Lead developer of Ultramarine Linux
+I'm also the founder and the maintainer of Ultramarine Linux. My specialty is in SRE & Software Engineering
 
 # Projects
 - [Ultramarine Linux](https://ultramarine-linux.org)
